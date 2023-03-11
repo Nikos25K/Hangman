@@ -1,0 +1,10 @@
+cat
+elephant
+array
+raining
+apple
+accident
+contributor
+manager
+wrestling
+football
