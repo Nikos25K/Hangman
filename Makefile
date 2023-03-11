@@ -5,3 +5,5 @@ $(EXEC): $(OBJS)
 	$(CC) $(OBJS) -o $(EXEC)
 run: $(EXEC)
 	./$(EXEC)
+clean:
+	rm -f $(OBJS) $(EXEC)	
